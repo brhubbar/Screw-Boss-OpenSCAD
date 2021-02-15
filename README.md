@@ -36,13 +36,13 @@ provide the same parameters to each function call.
 
 Below are some typical bosses that could be generated:
 
- ![Set of various bosses](./examples/Various Bosses.png)
+ ![Set of various bosses](./examples/Various%20Bosses.png)
  
- ![Recessed screw head with optimized bridging](./examples/Recessed Screw Head.png)
+ ![Recessed screw head with optimized bridging](./examples/Recessed%20Screw%20Head.png)
  
  ![Boss with a nut trap](./examples/Nut%20Trap.png)
  
- ![Floating boss with  recessed screw head](./examples/Floating\Boss.png)
+ ![Floating boss with  recessed screw head](./examples/Floating%20Boss.png)
  
  ![Negative body for subtracting a bore and nut trap from another body](./examples/Negative.png)
 
